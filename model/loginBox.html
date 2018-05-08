@@ -1,0 +1,34 @@
+<div class = "row bodyCentre">
+  <div class = "col pull-center">
+    <h3>User Login</h3>
+    <form class = "col form-group">
+      <label>Email</label>
+      <div class = "input-group">
+        <span class="input-group-addon"><i class="fas fa-envelope"></i></span>
+        <input class = "form-control" name = "email" type = "text"/>
+      </div>
+      <label>Password</label>
+      <div class = "input-group">
+        <span class="input-group-addon"><i class="fas fa-key"></i></span>
+        <input class = "form-control" name = "email" type = "text" />
+      </div>
+      <br />
+      <button class = "btn form-control" id = "loginButt" type = "submit">Login</button>
+    </form>
+    <p id = "resetShow" style = "cursor: pointer;">Forgot your password? Click Here.</p>
+    <div id = "fPass">
+      <form id = "resetForm" class = "col form-group" method = "POST" action = "controller/resetPassword.php">
+        <div id = "resetAlert" class = "alert alert-dismissable">
+          <button type="button" class="close" data-dismiss="alert">&times;</button>
+        </div>
+        <label>Email</label>
+        <div class = "input-group">
+          <span class="input-group-addon"><i class="fas fa-envelope"></i></span>
+          <input id = "resetEmail" class = "form-control" name = "email" type = "text" required/>
+        </div>
+        <br />
+        <button class = "btn form-control" id = "resetButt" type = "submit">Send Reset</button>
+      </form>
+    </div>
+  </div>
+</div>
