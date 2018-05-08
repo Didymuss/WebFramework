@@ -8,13 +8,13 @@ session_start();
   <script src="dependencies/fontAwesome/fontawesome-all.js"></script>
   <link rel="stylesheet" href="dependencies/bootstrap/bootstrap-4.0.0-beta.2/css/bootstrap.min.css">
   <link rel="stylesheet" href="dependencies/css/mainCSS.css">
-  <title>Go Find - Login</title>
+  <title>Framework - Login</title>
 </head>
 <body>
   <div class = "container-fluid">
     <div class = "row header">
       <div class = "col headerLeft">
-        <h1>Go Find</h1>
+        <h1>Framework</h1>
         <br />
       </div>
     </div>

@@ -12,7 +12,7 @@ checkLoggedIn();
   <script src="../dependencies/fontAwesome/fontawesome-all.js"></script>
   <link rel="stylesheet" href="../dependencies/bootstrap/bootstrap-4.0.0-beta.2/css/bootstrap.min.css">
   <link rel="stylesheet" href="../dependencies/css/mainCSS.css">
-  <title>Go Search - Account</title>
+  <title>Framework - Account</title>
 </head>
 <body>
   <div class = "container-fluid">
