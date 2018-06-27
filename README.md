@@ -1,7 +1,7 @@
 # Framework
 This is a framework I've been working on to facilitate quicker development of websites (primarily for myself).
 
-While this framework is a work in progress, it will have a complete login system, Stripe implementation and account administration. As well as being designed in MVC with mobile first ideology.
+While this framework is a work in progress (and heavily in need of updating due to things such as my MVC being wonky), it will have a complete login system, Stripe implementation and account administration. As well as being designed in MVC with mobile first ideology.
 
 
 # Things Completed:
