@@ -5,11 +5,13 @@ While this framework is a work in progress (and heavily in need of updating due 
 
 
 # Things Completed:
-* CSS (including media queries)
 * Fontawesome/ Bootstrap inclusion.
 * Login system
-* General layout
 * Account administration
+
+# Things mostly done:
+* General layout
+* CSS (I'm sure there's room for improvement as I've likely missed something) 
 
 # Things partially done:
 * Bootstrap header needs some working on. 
